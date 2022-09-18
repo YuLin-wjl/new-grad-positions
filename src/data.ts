@@ -1511,4 +1511,17 @@ export const positions: Position[] = [
       date: '2022-08-22',
     },
   }
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '中国东方电气',
+      website: 'http://dongfang2023.zhaopin.com/',
+      type: CompanyType.央企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/aoSdxGYYmJR-GzNHQXgXpA',
+      date: '2022-09-17',
+    },
+  }
 ]
